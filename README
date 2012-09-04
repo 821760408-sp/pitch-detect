@@ -1,0 +1,4 @@
+PitchDetect.java: this is a robust polyphonic multi-pitch detector. The algorithm is described by Anssi Klapuri in
+					Multiple Fundamental Frequency Estimation by Summing Harmonic Amplitudes.
+					
+PitchDetectDemo.java: a demo program to give a flavor of PitchDetect.
